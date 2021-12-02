@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\bin\Debug\P4_3_1204029.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\bin\Debug\P4_3_1204029.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\bin\Debug\P4_3_1204029.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\P4_3_1204029\P4_3_1204029\obj\Debug\P4_3_1204029.pdb
